@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+#Lib et dll SDL2
+*.lib
+*.dll
+
+#Conf visual studio projet SDL2
+.vs
+
